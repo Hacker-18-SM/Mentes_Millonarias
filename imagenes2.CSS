@@ -1,0 +1,26 @@
+body { background-color: black;
+}     
+
+
+a
+{text-decoration: none;
+  padding: 13px;
+    color: white;
+   background-color: darkred;
+    
+}
+
+a.y {text-decoration: none;
+  padding: 11px;
+    color: white;
+   background-color: darkred;
+    margin-left: 10px;
+    
+  
+}
+
+
+
+a:hover {
+    background-color: red;
+}

@@ -1,0 +1,38 @@
+body {background-color:black;
+    
+}
+
+
+iframe {
+  
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+}
+    
+
+
+
+div.copy {background-color: black;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-bottom: -10px;
+    
+}
+a {background-color: red;
+    color: white;
+    padding: 12px;
+    text-decoration: none;
+}
+
+a:hover {background-color:darkred;
+    color: white;
+    padding: 12px;
+    
+}
+div.copy {background-color: black;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-bottom: -10px;
+    
+}

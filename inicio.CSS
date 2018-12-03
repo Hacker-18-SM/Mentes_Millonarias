@@ -1,0 +1,145 @@
+
+body {background-color:black;
+    
+}
+
+
+    
+    
+
+/* aqui termina el logo */
+
+a.img { text-decoration: none;
+    padding: 16px 32px;
+    background-color: darkred;
+    color: white;
+
+    
+    
+}
+
+
+a.img:hover {
+    
+    background-color: orangered;
+}
+
+a.in {text-decoration: none;
+    padding: 16px 32px;
+    background-color: darkred;
+    color: white;
+
+    
+    
+}
+
+
+a.in:hover {
+    background-color: orangered;
+}
+
+
+
+a.ad { text-decoration: none;
+    padding: 16px 32px;
+    background-color: darkred;
+    color: white;
+
+    
+    
+}
+a.ad:hover {
+    background-color: orangered;
+}
+
+
+div.copy {background-color:black;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-bottom: -10px;
+    
+}
+
+iframe.vd {
+    width: 1130px;
+    height: 500px;
+    margin-top: -1240px;
+  
+   
+    border-style: none;
+ 
+}
+iframe.one {
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+}
+iframe.two {
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+}
+
+
+font.tr {margin-right: -1px;
+    
+    
+}
+a.you { position: fixed;
+    margin-top: 120px;
+}
+
+a.fa {margin-top: -120px;
+    position: fixed;
+}
+img.log {
+    margin-top: -250px;
+}
+font.mm {font-size:130px;
+    
+}
+ul.mnu {color: white;
+   
+   list-style: none;
+    padding: 3px;
+    background-color: darkred;
+  
+}
+
+li {
+    display: inline-block;
+}
+
+
+
+li.b {
+    
+}
+
+li.c {margin-right: 280px;
+    padding:0px;
+    margin: 0px;
+}
+
+img.ond {float: right;
+    
+}
+h6 {
+    color: white;
+}
+
+
+img.co {
+float: left;
+}
+div.con {
+    background-color: black;
+    margin: 200;
+    border-radius: 1%;
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+    box-shadow: 10px 1px 20px 1px  red;
+}
+
+
